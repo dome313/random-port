@@ -1,7 +1,0 @@
-spring:
-  application:
-    name: random-port
-  cloud:
-    config:
-      uri: http://localhost:7777
-      override-system-properties: true
